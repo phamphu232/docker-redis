@@ -1,0 +1,6 @@
+data/*
+
+!.gitignore
+*.log
+.env
+/docker-compose.yml
